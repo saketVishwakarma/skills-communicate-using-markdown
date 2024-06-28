@@ -44,6 +44,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ```
 
 #### How it looks
+##Heading
 
 # This is an `<h1>` header, which is the largest
 

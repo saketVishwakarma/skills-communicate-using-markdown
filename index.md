@@ -10,4 +10,7 @@ b=6
 c=a+b
 print(c)
 ```
+- [ ] spiderman lives in newyork
+- [ ] he has girlfriend named MJ
+- [x] he want to save her but failed
 
